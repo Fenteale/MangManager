@@ -1,0 +1,3839 @@
+HTTP/2 200 
+date: Mon, 09 Sep 2019 01:45:21 GMT
+content-type: text/html; charset=utf-8
+content-length: 168973
+set-cookie: __cfduid=da37e18ff94fef94de56748f1c5b964f81567993521; expires=Tue, 08-Sep-20 01:45:21 GMT; path=/; domain=.curseforge.com; HttpOnly
+set-cookie: AWSALB=PAe/rVacR3a1Q7AON/NeDBw8NBH3bJQJ2WcuyQp+qrFYdn7rNinCe7rRWFCN5Sxb0rsXtpZrAm/RK3MNjwq4GFkvKcVCc1GzrsVHnOh6A9oDnU7+tVKeSCbOHjqd; Expires=Mon, 16 Sep 2019 01:45:21 GMT; Path=/
+cache-control: no-cache
+pragma: no-cache
+expires: -1
+x-aspnetmvc-version: 5.2
+x-frame-options: SAMEORIGIN
+x-mvc-supplant-cachable: true
+x-aspnet-version: 4.0.30319
+set-cookie: Unique_ID_v2=0380a6d3aeab4a79aa5c2bcb65b15fdc; domain=.curseforge.com; expires=Sun, 09-Sep-2029 01:45:21 GMT; path=/
+x-ua-compatible: IE=edge,chrome=1
+x-frame-options: SAMEORIGIN
+strict-transport-security: max-age=15768000
+expect-ct: max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"
+server: cloudflare
+cf-ray: 51357b728e927782-LAX
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html lang="en" class="no-js ie6"> <![endif]-->
+<!--[if IE 7 ]>    <html lang="en" class="no-js ie7"> <![endif]-->
+<!--[if IE 8 ]>    <html lang="en" class="no-js ie8"> <![endif]-->
+<!--[if IE 9 ]>    <html lang="en" class="no-js ie9"> <![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en-us" class="no-js">
+<!--<![endif]-->
+<!-- this prefix is to comply with open graph standards presented here https://d2eeipcrcdle6.cloudfront.net/seo-cheat-sheet.pdf -->
+
+<head>
+    <meta charset="UTF-8">
+    <title> Bagnon - Addons - World of Warcraft - CurseForge </title>
+    <meta name="description" content="" />
+    <meta name="theme-color" content="#121212" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+    <!-- Responsive Meta Tag -->
+    
+
+
+        <link rel="shortcut icon" href="https://media.forgecdn.net/avatars/130/458/636460205549127215.png" />
+
+
+    <!-- Links -->
+
+    <!-- Meta Properties -->
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Bagnon" />
+<meta property="og:description" content="All in one displays for your inventory, bank, and keyring" />
+<meta property="og:url" content="https://www.curseforge.com/wow/addons/bagnon" />
+<meta property="og:image" content="https://media.forgecdn.net/avatars/thumbnails/137/252/120/120/636513747773501120.png" />
+<meta property="og:site_name" content="CurseForge" />
+<meta name="description" content="All in one displays for your inventory, bank, and keyring" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@CurseForge" />
+<meta name="twitter:creator" content="@CurseForge" />
+<meta name="twitter:title" content="Bagnon" />
+<meta name="twitter:description" content="All in one displays for your inventory, bank, and keyring" />
+<meta name="twitter:image" content="https://media.forgecdn.net/avatars/thumbnails/137/252/120/120/636513747773501120.png" />
+
+    <!-- Stylesheets -->
+<link rel="stylesheet" href="/Content/2-0-7179-35052/Skins/Blocks/css/compiled.css"/>
+<link rel="stylesheet" href="/Content/2-0-7179-35052/Skins/CurseForge/css/compiled.css"/>
+<link rel="stylesheet" type="text/css" href="/api/custom-css" />
+
+    <script type="text/javascript">
+        var onloadCallback = function () {
+            Cobalt.runOnHtmlInsert(Cobalt.Forms.handlegReCaptchaRender);
+        };
+    </script>
+
+    <script src='https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit' async defer></script>
+    <script src="https://apis.google.com/js/platform.js"></script>
+
+    <!-- JavaScript -->
+<script src="/js/jquery-migration?v=GjyiFSP641QXo5QcmpaUW1L8laD5rKWzPP0n7lEpHPo1"></script>
+<script src="/js/jquery?v=-l4Om55ehZs1gYrKtDvYMCO02R2CD_KZGhdbRy2UTxw1"></script>
+<script src="/js/cobalt?v=Wu_3QopCOE4lD2KY9t_JOiRJwBYoNyPsuYs04kJLJAA1"></script>
+<script src="/js/Elerium?v=fK0mT2zKMxAvbq5dB7ZGPpgQHub7ydh1kO33Y-p3yfA1"></script>
+
+
+<script>
+window.factorem = {};
+window.factorem.slotSizes =  [
+    [[728,90],[970,250],[980,250],[970,150],[980,150]],
+    [[300,250],[300,600]],
+    [[300,250],[300,600]],
+    [[728,90]],
+    [[728,90]],
+    [[300,250]],
+    [[160,600]],
+    [[160,600]]
+];
+var script = document.createElement('script');
+var tstamp = new Date();
+script.id = 'factorem';
+script.src = '//cdm.cursecdn.com/js/curseforge/cdmfactorem_min.js?misc=' + tstamp.getTime();
+script.async = false;
+script.type='text/javascript';
+document.head.appendChild(script);
+</script> 
+    
+    
+    
+
+
+</head>
+<body class="site  site-curseforge site-curseforge body-publicproject body-publicproject-details show-ads user-anonymous lang-en site-lang-en template-none skin-light-on-dark flex flex-col h-full" data-user-lang="1">
+
+
+
+    
+    <!-- No Script -->
+    <noscript class="b-noscript">
+        <p><i class="b-noscript-icon"></i> This site works best with JavaScript enabled. Please enable JavaScript to get the best experience from this site.</p>
+    </noscript>
+    <div class="flex flex-col min-h-full min-h-screen">
+        <div class="flex-none">
+            
+
+
+
+
+<nav class="bg-primary-500 flex px-2 curseforge-header h-10">
+    <div class="flex items-center w-full h-full container mx-auto">
+        <div class="mr-4 curseforge-logo">
+            <a href="/">
+                <figure class="curseforge-logo__container relative w-9 h-5">
+                    <img src="/Content/2-0-7179-35052/Skins/CurseForge/images/anvil.svg" alt="CurseForge" class="w-full h-full absolute" />
+                </figure>
+            </a>
+        </div>
+        <div class="block md:hidden">
+            <div class="relative flex flex-col">
+                <div class="dropdown">
+                    <button class="button">
+                        <div class="flex items-center button__text">
+                            <svg class="icon icon-20" viewBox="0 0 20 20" width="20" height="20"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Action/More Horizontal.svg#Action/More Horizontal"/></svg>
+                        </div>
+                    </button>
+                </div>
+                <div class="box z-10 dropdown-tail hidden w-32">
+                    <div class="p-2 bg-white flex flex-col">
+
+
+
+        <a href="http://bit.ly/2Lzpfsl"  class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Browse
+        </a>
+        <a href="http://bit.ly/2LzhoLr"  class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Get Desktop
+        </a>
+        <a href="https://link.twitch.tv/CFDevJam"  class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Twitch Dev Jam
+        </a>
+        <a href="http://bit.ly/2LwBwh8" target='_blank' class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Feedback
+        </a>
+        <a href="http://bit.ly/2LJzuud"  class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Knowledge Base
+        </a>
+        <a href="http://bit.ly/2LB9HV4" target='_blank' class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Discord
+        </a>
+        <a href="http://bit.ly/2Lz5D7O" target='_blank' class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Twitter
+        </a>
+        <a href="http://bit.ly/2LGwE9c" target='_blank' class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            News
+        </a>
+        <a href="http://bit.ly/2LzpbJ7"  class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Minecraft Forums
+        </a>
+        <a href="http://bit.ly/2LulnJg"  class="p-1 rounded text-charcoal no-underline text-left whitespace-no-wrap hover:no-underline hover:text-white hover:bg-primary-400 " >
+            Author Forums
+        </a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="hidden md:flex text-white">
+
+
+        <a href="http://bit.ly/2Lzpfsl"  class="top-nav__nav-link no-underline " >
+            Browse
+        </a>
+        <a href="http://bit.ly/2LzhoLr"  class="top-nav__nav-link no-underline " >
+            Get Desktop
+        </a>
+        <a href="https://link.twitch.tv/CFDevJam"  class="top-nav__nav-link no-underline " >
+            Twitch Dev Jam
+        </a>
+        <a href="http://bit.ly/2LwBwh8" target='_blank' class="top-nav__nav-link no-underline " >
+            Feedback
+        </a>
+        <a href="http://bit.ly/2LJzuud"  class="top-nav__nav-link no-underline " >
+            Knowledge Base
+        </a>
+        <a href="http://bit.ly/2LB9HV4" target='_blank' class="top-nav__nav-link no-underline " >
+            Discord
+        </a>
+        <a href="http://bit.ly/2Lz5D7O" target='_blank' class="top-nav__nav-link no-underline " >
+            Twitter
+        </a>
+        <a href="http://bit.ly/2LGwE9c" target='_blank' class="top-nav__nav-link no-underline " >
+            News
+        </a>
+        <a href="http://bit.ly/2LzpbJ7"  class="top-nav__nav-link no-underline " >
+            Minecraft Forums
+        </a>
+        <a href="http://bit.ly/2LulnJg"  class="top-nav__nav-link no-underline " >
+            Author Forums
+        </a>
+
+        </div>
+        <div class="ml-auto h-full">
+                    <div class="flex h-full">
+            <div class="mr-2">
+                <div class="flex items-center h-full">
+                    <a class="button button--hollow button--overlay" href="/twitch-login?returnUrl=%2fwow%2faddons%2fbagnon">
+                        <span class="button__text">
+                            Login
+                        </span>
+                    </a>
+                </div>
+            </div>
+            <div class="flex items-center h-full">
+                <a class="button button--overlay button--hollow" href="/twitch-signup?returnUrl=%2fwow%2faddons%2fbagnon">
+                    <span class="button__text">
+                        Sign Up
+                    </span>
+                </a>
+            </div>
+
+        </div>
+
+        </div>
+    </div>
+</nav>
+        </div>
+        <main class="flex-1 root-content z-1 flex flex-col w-full h-full">
+            
+
+<div class="z-0">
+
+
+    <header class="relative game-header overflow-hidden min-h-40 flex flex-col justify-between">
+        <div class="w-full h-full absolute bg-no-repeat bg-cover z--1 game-header__art" style="background-image: url(&#39;https://static-cdn.jtvnw.net/categorydb-production-game-banners/18122/en-us/1b5ab77a-eb30-405e-81ef-4d4c3b187102.jpeg&#39;);">
+        </div>
+            <div class="mx-auto my-4">
+                <div class="mx-auto container mt-4 flex justify-center items-center">
+<div id='cdm-zone-01'></div>
+</div>
+
+            </div>
+
+        <div class="container mx-auto mt-auto flex justify-between">
+            <div class="flex">
+                <figure class="mr-2">
+
+<div class="project-avatar project-avatar-64">
+    <a href="/wow/addons/bagnon" class="bg-white" data-featherlight="https://media.forgecdn.net/avatars/137/252/636513747773501120.png">
+            <img src="https://media.forgecdn.net/avatars/thumbnails/137/252/64/64/636513747773501120.png" alt="" class="mx-auto"/>
+    </a>
+</div>
+                </figure>
+                <div class="flex flex-col mt-auto mb-auto">
+                    <div>
+                            <h2 class="font-bold text-lg break-all">Bagnon</h2>
+                    </div>
+                    <a href="/wow/addons" class="text-primary-500">
+                        Addons
+                    </a>
+                    <div class="flex">
+                        <span class="mr-2 text-sm text-gray-500">49,097,315 Downloads</span>
+                            <span class="mr-2 text-gray-500">Last Updated: <abbr class="tip standard-date standard-datetime" title="09 5 2019 12:20:41 (PDT) (UTC-7:00)" data-epoch="1567711241">Sep 5, 2019</abbr></span>
+                                                    <span class="text-gray-500">Game Version: 8.2.0</span>
+                    </div>
+                </div>
+            </div>
+            <div class="ml-2 flex">
+                <div class="flex mb-2">
+
+
+
+
+<div class="-mx-1 lg:flex hidden">    <div class="px-1">
+        <a href="/wow/addons/bagnon/download" class="button button--hollow" >
+            <span class="button__text">
+                Download
+            </span>
+        </a>
+    </div>
+    <div class="px-1">
+        <a href="/wow/addons/bagnon/download?client=y" class="button " >
+<svg class="icon icon-margin mr-1" viewBox="0 0 90 90" width="18" height="18"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Logo/Glitch.svg#Logo/Glitch"/></svg>            <span class="button__text">
+                Install
+            </span>
+        </a>
+    </div>
+</div>
+
+
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="nav">
+        <a id="leftArrow"></a>
+        <a id="rightArrow"></a>
+        <nav class="container mx-auto">
+            <ul class="flex mt-6 mb-5 border-b border-gray-200 w-full">
+
+
+    <li id="nav-description" class=" border-b-2 border-primary-500 b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="/wow/addons/bagnon"  class="text-primary-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Description
+                </span>
+            </a>
+                
+    </li>
+    <li id="nav-files" class=" b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="/wow/addons/bagnon/files"  class="text-gray-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Files
+                </span>
+            </a>
+                
+    </li>
+    <li id="nav-images" class=" b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="/wow/addons/bagnon/screenshots"  class="text-gray-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Images
+                </span>
+            </a>
+                
+    </li>
+    <li id="nav-issues-svg-class-icon-icon-offsite-nav-viewbox-0-0" class=" b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="https://github.com/tullamods/Bagnon/issues"  class="text-gray-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Issues<svg class="icon icon-offsite-nav" viewBox="0 0 20 20" width="20" height="20"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Action/Popout.svg#Action/Popout"/></svg>
+                </span>
+            </a>
+                
+    </li>
+    <li id="nav-wiki-svg-class-icon-icon-offsite-nav-viewbox-0-0" class=" b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="https://github.com/tullamods/Wildpants/wiki"  class="text-gray-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Wiki<svg class="icon icon-offsite-nav" viewBox="0 0 20 20" width="20" height="20"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Action/Popout.svg#Action/Popout"/></svg>
+                </span>
+            </a>
+                
+    </li>
+    <li id="nav-source-svg-class-icon-icon-offsite-nav-viewbox-0-0" class=" b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="git://github.com/tullamods/Bagnon.git"  class="text-gray-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Source<svg class="icon icon-offsite-nav" viewBox="0 0 20 20" width="20" height="20"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Action/Popout.svg#Action/Popout"/></svg>
+                </span>
+            </a>
+                
+    </li>
+    <li id="nav-relations" class=" b-list-item p-nav-item px-2 pb-1/10 -mb-1/10 text-gray-500"  >
+            <a href="/wow/addons/bagnon/relations/dependencies"  class="text-gray-500 hover:no-underline" >
+                <span class="b-list-label">
+                    Relations
+                </span>
+            </a>
+                
+    </li>
+
+            </ul>
+        </nav>
+    </div>
+    <div class="mx-auto container pb-5">
+        <section class="-mx-2 flex flex-col-reverse lg:flex-row ">
+            <div class="flex-1 px-2">
+                <div class="flex flex-col">
+                    <div class="mb-4">
+                        
+
+<section class="flex flex-col project-detail">
+    
+
+
+    <div class="box p-4 pb-2 project-detail__content" data-user-content>
+        <p><span><img src="https://img.shields.io/badge/runs-retail + classic-brightgreen" alt="" width="126" height="20"><a href="https://www.patreon.com/jaliborc" rel="nofollow">&nbsp;<img src="https://img.shields.io/badge/donate-patreon-orange" alt="" width="100" height="20"></a>&nbsp;<a href="https://github.com/tullamods/Wildpants/wiki" rel="nofollow"><img src="https://img.shields.io/badge/read-wiki-blue" alt="" width="66" height="20"></a></span></p>
+<h2>Overview</h2>
+<p>Bagnon is a highly customizable bag replacement addon designed to help the player find items as quickly and as easily as possible. Beyond the basic all-bags-in-one functionality, Bagnon provides features such as:</p>
+<ul>
+<li>Ability to view the items of any character, from anywhere <span style="color:#a9a9a9"><span style="font-size:80.0%">*</span></span></li>
+<li>Inventory, bank, vault and guild bank support</li>
+<li>Coloring based on item quality and more</li>
+<li>Intelligent item search engine</li>
+<li>Tooltip item counts</li>
+<li>Item rulesets</li>
+<li>Databroker support</li>
+</ul>
+<p><span style="color:#a9a9a9"><span style="font-size:75.0%">*&nbsp;<em>- Requires the player to login and visit the bank once at each character</em></span></span></p>
+<h2>Classic Look?</h2>
+<p>Looking for a classic look? Try&nbsp;<a href="https://www.curseforge.com/wow/addons/combuctor" rel="nofollow">Combuctor</a>, which is the same addon but with a more Blizzard looking design.</p>
+<h2>Plugins</h2>
+<p>A wide assortment of plugins has been made by people in the community:</p>
+<ul>
+<li><a href="https://wow.curseforge.com/projects/bagnon-currencies" rel="nofollow">Bagnon Currencies</a>&nbsp;- Allows you to track currencies on any window</li>
+<li><a href="https://wow.curseforge.com/projects/bagnon-scrap" rel="nofollow">Bagnon Scrap</a>&nbsp;- Colors your Scrap on all windows</li>
+<li><a href="https://wow.curseforge.com/projects/bagnon-facade" rel="nofollow">Bagnon Facade</a>&nbsp;- Allows windows to be skinned with Masque</li>
+<li><a href="https://github.com/tullamods/Wildpants/wiki/Plugins" rel="nofollow">And many more...</a></li>
+</ul>
+<h2>Notes</h2>
+<ul>
+<li>Please submit bugs and feature requests at <a href="http://github.com/tullamods/Bagnon/issues" rel="nofollow">GitHub</a>.&nbsp;</li>
+<li>Are you a developer? Bagnon&nbsp;provides a <a href="https://github.com/tullamods/Wildpants/wiki" rel="nofollow">rich API</a> for developing plugins and extra rulesets!</li>
+<li>Consider supporting Bagnon&nbsp;by becoming <a href="https://www.patreon.com/jaliborc" rel="nofollow">a patron</a> or submitting a <a href="/linkout?remoteUrl=https%253a%252f%252fwww.paypal.com%252fcgi-bin%252fwebscr%253fhosted_button_id%253dJVA9GGJJ75K3J%2526item_name%253dBagnon%2b(from%2bcurseforge.com)%2526cmd%253d_s-xclick" rel="nofollow">donation</a>.</li>
+<li>Visit me at <a href="/linkout?remoteUrl=http%253a%252f%252fwww.jaliborc.com%252f" rel="nofollow">jaliborc.com</a>.</li>
+</ul>
+    </div>
+    <div class="mt-6">
+
+
+<!-- Comment Form Top -->
+
+
+<!-- Comment Listing -->
+
+
+
+<section class="p-comments" id="comments" itemscope itemtype="http://schema.org/UserComments">
+    <!--- Comment Listing -->
+
+    <!-- Outside Caption -->
+<header class="h2  no-sub no-nav">
+
+    <!-- Navigation -->
+
+    <!-- Main Title -->
+<H2 class="" >Comments</H2>
+    <!-- Sub title -->
+
+</header>    <!-- Inside Caption -->
+<div class="listing-container listing-container-ul">
+
+
+
+
+
+
+<div class="pagination pagination-top flex items-center">
+
+    <div class="mr-3 pagination-prev h-6 w-6 flex justify-center items-center pagination-prev--inactive">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path class="fill-gray-500" fill-rule="evenodd" clip-rule="evenodd" d="M12.537 5.05389C12.813 5.15689 12.996 5.41889 13 5.71389V14.2859C13 14.5749 12.817 14.8359 12.537 14.9459C12.257 15.0559 11.934 14.9959 11.72 14.7909L7.22 10.5049C7.08 10.3739 7.001 10.1909 7 9.99989C7.001 9.80789 7.08 9.62589 7.22 9.49489L11.72 5.20989C11.939 5.00489 12.258 4.94389 12.537 5.05489" fill="#6E6779" />
+            </svg>
+
+    </div>
+        <span class="text-gray-400 pagination-item pagination-item--active">1</span>
+        <a href="/wow/addons/bagnon?page=2#comments" class="pagination-item"><span class="text-primary-500">2</span></a>
+        <a href="/wow/addons/bagnon?page=3#comments" class="pagination-item"><span class="text-primary-500">3</span></a>
+        <a href="/wow/addons/bagnon?page=4#comments" class="pagination-item"><span class="text-primary-500">4</span></a>
+    <span class="pagination-item">&hellip;</span>
+        <a href="/wow/addons/bagnon?page=342#comments" class="pagination-item"><span class="text-primary-500">342</span></a>
+        <div class="pagination-next h-6 w-6 flex items-center justify-center ">
+                <a href="/wow/addons/bagnon?page=2#comments">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path class="fill-primary-500" fill-rule="evenodd" clip-rule="evenodd" d="M7.46324 14.9464C7.18724 14.8424 7.00424 14.5804 7.00024 14.2864V5.71438C7.00024 5.42538 7.18324 5.16438 7.46324 5.05438C7.74324 4.94438 8.06624 5.00438 8.28024 5.20938L12.7802 9.49538C12.9202 9.62638 12.9992 9.80838 13.0002 10.0004C12.9992 10.1914 12.9202 10.3744 12.7802 10.5054L8.28024 14.7904C8.06024 14.9954 7.74224 15.0554 7.46324 14.9454" fill="#6E6779" />
+                    </svg>
+                </a>
+        </div>
+</div><div class="listing-header">
+
+</div><div class="listing-body">
+<ul class="listing listing-comments p-comments j-comment-listing" data-sort-method="date-created" data-sort-order="descending"  
+    data-ajax-set-window-state="true" 
+    data-ajax-url="/comments/1682146042-1592/ajax-list"  
+    
+    
+    id="comments"
+    data-row-selector="&gt;li"
+    data-page-inline="False"
+    data-scroll-inline="False"
+    >
+
+
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7734"
+         id="c7734" data-surrogate-type="user"
+         data-surrogate-id="100417692" data-author-id="100417692" data-id="4032998"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/hugombu94"><span itemprop="name">HugoMBU94</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/8/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/hugombu94">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/hugombu94-profile_image-60ddd10002cb2c75-50x50.jpeg" itemprop="image" alt="View HugoMBU94&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/hugombu94"><span class="user user-role-registered-user ">HugoMBU94 <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/hugombu94"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=HugoMBU94"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-08T10:47:31">Posted <abbr class="tip standard-date standard-datetime" title="09 8 2019 03:47:31 (PDT) (UTC-7:00)" data-epoch="1567939651" data-date-prefix="Posted ">Sep 8, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7734" data-link-prompt="true">#7734</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7734" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Any way to reskin the border of bagnon? Would like to use the border of another addon to create a more minimalist look. Thanks.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7733"
+         id="c7733" data-surrogate-type="user"
+         data-surrogate-id="100416669" data-author-id="100416669" data-id="4032759"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/eidem91"><span itemprop="name">Eidem91</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/8/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/eidem91">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/eidem91-profile_image-87064a49329f5e67-50x50.png" itemprop="image" alt="View Eidem91&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/eidem91"><span class="user user-role-registered-user ">Eidem91 <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/eidem91"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=Eidem91"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-08T05:19:14">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 22:19:14 (PDT) (UTC-7:00)" data-epoch="1567919954" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7733" data-link-prompt="true">#7733</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7733" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>updated this addon today for classic. my questitems tends to not show, when i reload my UI with this addon disabled, they show up again. costed me a trip from ungoro to UC and back...</p>
+<p>&nbsp;</p>
+<p>edit: my fault. figured out i wasnt showing ONE bag rofl im my inventory where the items appeared.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+        <div class="p-comment-edited">
+            Last edited by <a href="/members/eidem91"><span class="user user-role-registered-user" style="">Eidem91</span></a>: <abbr class="tip standard-date standard-datetime" title="09 8 2019 09:12:32 (PDT) (UTC-7:00)" data-epoch="1567959152">Sep 8, 2019</abbr>
+        </div>
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7732"
+         id="c7732" data-surrogate-type="user"
+         data-surrogate-id="12415114" data-author-id="12415114" data-id="4032745"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/mikster_rdy"><span itemprop="name">MiksteR_RdY</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+10/10/2013
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/mikster_rdy">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/30d5c6ae-710d-40f9-a51e-640635d125c7-profile_image-50x50.png" itemprop="image" alt="View MiksteR_RdY&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/mikster_rdy"><span class="user user-role-registered-user ">MiksteR_RdY <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/mikster_rdy"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=MiksteR_RdY"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-08T04:59:44">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 21:59:44 (PDT) (UTC-7:00)" data-epoch="1567918784" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7732" data-link-prompt="true">#7732</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7732" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Also getting errors, too bad. I finally found out bagnon supposedly works for classic, got hyped, got sad after seeing tons of errors.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7731"
+         id="c7731" data-surrogate-type="user"
+         data-surrogate-id="100415592" data-author-id="100415592" data-id="4032499"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/hybridvig0r"><span itemprop="name">hybridvig0r</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/7/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/hybridvig0r">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/cd618d3e-f14d-4960-b7cf-094231b04735-profile_image-50x50.jpg" itemprop="image" alt="View hybridvig0r&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/hybridvig0r"><span class="user user-role-registered-user ">hybridvig0r <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/hybridvig0r"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=hybridvig0r"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T23:45:25">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 16:45:25 (PDT) (UTC-7:00)" data-epoch="1567899925" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7731" data-link-prompt="true">#7731</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7731" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Inventorian is a great classic compatible alternative as a long-time bagnon fan. At least until this addon gets updated for classic.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7729"
+         id="c7729" data-surrogate-type="user"
+         data-surrogate-id="53091789" data-author-id="53091789" data-id="4032299"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/stareyedgirl"><span itemprop="name">stareyedgirl</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+7/31/2018
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+14
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/stareyedgirl">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg" itemprop="image" alt="View stareyedgirl&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/stareyedgirl"><span class="user user-role-registered-user ">stareyedgirl <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/stareyedgirl"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=stareyedgirl"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T20:55:26">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 13:55:26 (PDT) (UTC-7:00)" data-epoch="1567889726" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7729" data-link-prompt="true">#7729</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7729" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>&nbsp;When I login to the game, the bags window opens and closes.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user user-role-global project authors user-role-project author comment-depth-0"
+         data-index="7727"
+         id="c7727" data-surrogate-type="user"
+         data-surrogate-id="10903991" data-author-id="10903991" data-id="4032024"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/boolyman"><span itemprop="name">Boolyman</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+5/27/2016
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+885
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/boolyman">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/261f3825-5333-4304-a505-e60021583def-profile_image-50x50.jpeg" itemprop="image" alt="View Boolyman&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/boolyman"><span class="user user-role-registered-user ">Boolyman <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/boolyman"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=Boolyman"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T17:03:02">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 10:03:02 (PDT) (UTC-7:00)" data-epoch="1567875782" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7727" data-link-prompt="true">#7727</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7727" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>&nbsp;Does the classic version of this have the ability to sort bags yet?&nbsp;&nbsp;</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7726"
+         id="c7726" data-surrogate-type="user"
+         data-surrogate-id="100413084" data-author-id="100413084" data-id="4031944"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/artex311"><span itemprop="name">ArTex311</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/7/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/artex311">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/artex311-profile_image-129bb9e1b5347184-50x50.jpeg" itemprop="image" alt="View ArTex311&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/artex311"><span class="user user-role-registered-user ">ArTex311 <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/artex311"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=ArTex311"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T15:53:05">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 08:53:05 (PDT) (UTC-7:00)" data-epoch="1567871585" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7726" data-link-prompt="true">#7726</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7726" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Sadly, It Doesn't Work. I love this addon, I've used it for a very long time, just disappointing it doesn't work in Classic.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+        <div class="comment-indentation"></div>
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-1"
+         data-index="7730"
+         id="c7730" data-surrogate-type="user"
+         data-surrogate-id="100342519" data-author-id="100342519" data-id="4032337"
+         data-markup-type="1" data-parent-id="1592"
+         data-depth="1"
+         data-parent-comment="4031944"
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/hstepan"><span itemprop="name">hstepan</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+8/28/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+6
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/hstepan">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-50x50.jpg" itemprop="image" alt="View hstepan&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/hstepan"><span class="user user-role-registered-user ">hstepan <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/hstepan"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=hstepan"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T21:17:50">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 14:17:50 (PDT) (UTC-7:00)" data-epoch="1567891070" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7730" data-link-prompt="true">#7730</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7730" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>In reply to <a href="https://www.curseforge.com/members/artex311" rel="nofollow">ArTex311</a>:</p>
+<p>&nbsp;What do you mean? I've been using it in Classic since day one.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7725"
+         id="c7725" data-surrogate-type="user"
+         data-surrogate-id="100037912" data-author-id="100037912" data-id="4031825"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/domdashsix"><span itemprop="name">DomDashSix</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/1/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+3
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/domdashsix">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/c9b91e9b-e973-420c-8542-4cf6bf09edd5-profile_image-50x50.png" itemprop="image" alt="View DomDashSix&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+                <i class="u-icon u-icon-online"></i>
+
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/domdashsix"><span class="user user-role-registered-user ">DomDashSix <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/domdashsix"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=DomDashSix"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T14:36:41">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 07:36:41 (PDT) (UTC-7:00)" data-epoch="1567867001" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7725" data-link-prompt="true">#7725</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7725" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>&nbsp;When you hover over your amount of money you have in the bottom left, the "Total" tooltip that shows up in Classic always says 0 copper for me.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7724"
+         id="c7724" data-surrogate-type="user"
+         data-surrogate-id="48870045" data-author-id="48870045" data-id="4031535"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/wazgilbert"><span itemprop="name">wazgilbert</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+4/14/2018
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+2
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/wazgilbert">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg" itemprop="image" alt="View wazgilbert&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/wazgilbert"><span class="user user-role-registered-user ">wazgilbert <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/wazgilbert"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=wazgilbert"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T10:07:01">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 03:07:01 (PDT) (UTC-7:00)" data-epoch="1567850821" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7724" data-link-prompt="true">#7724</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7724" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Doesn't work in classic. (mac client if that even makes a difference in addons)</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+        <div class="comment-indentation"></div>
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-1"
+         data-index="7728"
+         id="c7728" data-surrogate-type="user"
+         data-surrogate-id="100400728" data-author-id="100400728" data-id="4032107"
+         data-markup-type="1" data-parent-id="1592"
+         data-depth="1"
+         data-parent-comment="4031535"
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/sta11smith"><span itemprop="name">Sta11smith</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/5/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+2
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/sta11smith">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/0ecbb6c3-fecb-4016-8115-aa467b7c36ed-profile_image-50x50.jpg" itemprop="image" alt="View Sta11smith&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/sta11smith"><span class="user user-role-registered-user ">Sta11smith <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/sta11smith"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=Sta11smith"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-07T18:15:40">Posted <abbr class="tip standard-date standard-datetime" title="09 7 2019 11:15:40 (PDT) (UTC-7:00)" data-epoch="1567880140" data-date-prefix="Posted ">Sep 7, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7728" data-link-prompt="true">#7728</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7728" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>In reply to <a href="https://www.curseforge.com/members/wazgilbert" rel="nofollow">wazgilbert</a>:</p>
+<p>&nbsp;same It won't work for me either</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7723"
+         id="c7723" data-surrogate-type="user"
+         data-surrogate-id="100408198" data-author-id="100408198" data-id="4030694"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/vekien"><span itemprop="name">Vekien</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/6/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/vekien">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/vekien-profile_image-54f8acd6fe507ec8-50x50.jpeg" itemprop="image" alt="View Vekien&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/vekien"><span class="user user-role-registered-user ">Vekien <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/vekien"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=Vekien"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-06T18:35:34">Posted <abbr class="tip standard-date standard-datetime" title="09 6 2019 11:35:34 (PDT) (UTC-7:00)" data-epoch="1567794934" data-date-prefix="Posted ">Sep 6, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7723" data-link-prompt="true">#7723</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7723" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>This does not work, hasn't worked for me at all since wow classic came out.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7722"
+         id="c7722" data-surrogate-type="user"
+         data-surrogate-id="100408103" data-author-id="100408103" data-id="4030678"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/goodmangoes2war"><span itemprop="name">goodmangoes2war</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/6/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/goodmangoes2war">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/49988c7b-57bc-4dee-bd4f-6df4ad215d3a-profile_image-50x50.jpg" itemprop="image" alt="View goodmangoes2war&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/goodmangoes2war"><span class="user user-role-registered-user ">goodmangoes2war <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/goodmangoes2war"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=goodmangoes2war"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-06T18:13:27">Posted <abbr class="tip standard-date standard-datetime" title="09 6 2019 11:13:27 (PDT) (UTC-7:00)" data-epoch="1567793607" data-date-prefix="Posted ">Sep 6, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7722" data-link-prompt="true">#7722</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7722" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>As of 2:11 PM Eastern time, the new update appears to not work at all.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7721"
+         id="c7721" data-surrogate-type="user"
+         data-surrogate-id="6181136" data-author-id="6181136" data-id="4030563"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/vertices"><span itemprop="name">vertices</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+12/13/2016
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+3
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/vertices">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg" itemprop="image" alt="View vertices&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/vertices"><span class="user user-role-registered-user ">vertices <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/vertices"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=vertices"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-06T16:13:32">Posted <abbr class="tip standard-date standard-datetime" title="09 6 2019 09:13:32 (PDT) (UTC-7:00)" data-epoch="1567786412" data-date-prefix="Posted ">Sep 6, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7721" data-link-prompt="true">#7721</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7721" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Doesn't work at all for me in Classic. It's the only add-on I can't get to work. It's enabled, looks like it should work, but nothing. It's like I don't even have it once I login. OneBag3 works fine but I'd rather Bagnon. /bagnon does nothing (although I don't know that it should). Not sure how to fix. Even with no other add-ons loaded, it doesn't work.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+        <div class="p-comment-edited">
+            Last edited by <a href="/members/vertices"><span class="user user-role-registered-user" style="">vertices</span></a>: <abbr class="tip standard-date standard-datetime" title="09 6 2019 09:14:37 (PDT) (UTC-7:00)" data-epoch="1567786477">Sep 6, 2019</abbr>
+        </div>
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7720"
+         id="c7720" data-surrogate-type="user"
+         data-surrogate-id="100352133" data-author-id="100352133" data-id="4030500"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/artlessknave"><span itemprop="name">artlessknave</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+8/29/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+2
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/artlessknave">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/27103734-3cda-44d6-a384-f2ab71e4bb85-profile_image-50x50.jpg" itemprop="image" alt="View artlessknave&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/artlessknave"><span class="user user-role-registered-user ">artlessknave <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/artlessknave"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=artlessknave"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-06T15:07:16">Posted <abbr class="tip standard-date standard-datetime" title="09 6 2019 08:07:16 (PDT) (UTC-7:00)" data-epoch="1567782436" data-date-prefix="Posted ">Sep 6, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7720" data-link-prompt="true">#7720</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7720" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>how do you use the rulesets? there doesnt seem to be any buttons for them, like there is in combuctor?</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7719"
+         id="c7719" data-surrogate-type="user"
+         data-surrogate-id="100375620" data-author-id="100375620" data-id="4029578"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/madjest85"><span itemprop="name">Madjest85</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/1/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+2
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/madjest85">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg" itemprop="image" alt="View Madjest85&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/madjest85"><span class="user user-role-registered-user ">Madjest85 <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/madjest85"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=Madjest85"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-05T19:57:08">Posted <abbr class="tip standard-date standard-datetime" title="09 5 2019 12:57:08 (PDT) (UTC-7:00)" data-epoch="1567713428" data-date-prefix="Posted ">Sep 5, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7719" data-link-prompt="true">#7719</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7719" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>not working properly for wow classic. does not show gold. ordinary letters instead of gold<img src="https://i89.fastpic.ru/big/2019/0905/89/3d1f4f1b150663f4a36f8a9f0b900e89.jpg" alt="" width="642" height="555"></p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+        <div class="p-comment-edited">
+            Last edited by <a href="/members/madjest85"><span class="user user-role-registered-user" style="">Madjest85</span></a>: <abbr class="tip standard-date standard-datetime" title="09 5 2019 12:57:45 (PDT) (UTC-7:00)" data-epoch="1567713465">Sep 5, 2019</abbr>
+        </div>
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7718"
+         id="c7718" data-surrogate-type="user"
+         data-surrogate-id="100399098" data-author-id="100399098" data-id="4029519"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/neofolk_"><span itemprop="name">NeoFolk_</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/4/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+2
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/neofolk_">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/bb97f7e6-f11a-4194-9708-52bf5a5125e8-profile_image-50x50.jpg" itemprop="image" alt="View NeoFolk_&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/neofolk_"><span class="user user-role-registered-user ">NeoFolk_ <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/neofolk_"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=NeoFolk_"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-05T19:18:01">Posted <abbr class="tip standard-date standard-datetime" title="09 5 2019 12:18:01 (PDT) (UTC-7:00)" data-epoch="1567711081" data-date-prefix="Posted ">Sep 5, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7718" data-link-prompt="true">#7718</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7718" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>Este addon solo lo usabamos los m&aacute;s pro de aquel tiempo</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-0"
+         data-index="7715"
+         id="c7715" data-surrogate-type="user"
+         data-surrogate-id="100397776" data-author-id="100397776" data-id="4027876"
+         data-markup-type="1" data-parent-id="1592"
+         
+         
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/hulx"><span itemprop="name">Hulx</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+9/4/2019
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+1
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/hulx">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/user-default-pictures/4cbf10f1-bb9f-4f57-90e1-15bf06cfe6f5-profile_image-50x50.jpg" itemprop="image" alt="View Hulx&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/hulx"><span class="user user-role-registered-user ">Hulx <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/hulx"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=Hulx"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-04T15:27:10">Posted <abbr class="tip standard-date standard-datetime" title="09 4 2019 08:27:10 (PDT) (UTC-7:00)" data-epoch="1567610830" data-date-prefix="Posted ">Sep 4, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7715" data-link-prompt="true">#7715</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7715" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>I tried it with classic and get the following error.</p>
+<p>&nbsp;</p>
+<p>Message: ...e\AddOns\Bagnon\common\Wildpants\components\item.lua:86: CreateFrame: Unknown frame type 'ItemButton'<br>Time: Wed Sep 4 08:26:04 2019<br>Count: 2<br>Stack: ...e\AddOns\Bagnon\common\Wildpants\components\item.lua:86: CreateFrame: Unknown frame type 'ItemButton'<br>[C]: ?<br>[C]: in function `CreateFrame'<br>...e\AddOns\Bagnon\common\Wildpants\components\item.lua:86: in function `Construct'<br>...e\AddOns\Bagnon\common\Wildpants\components\item.lua:38: in function `Create'<br>...e\AddOns\Bagnon\common\Wildpants\components\item.lua:22: in function `New'<br>...Ons\Bagnon\common\Wildpants\components\itemFrame.lua:123: in function &lt;...Ons\Bagnon\common\Wildpants\components\itemFrame.lua:112&gt;</p>
+<p>Locals:</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+        <div class="comment-indentation"></div>
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-1"
+         data-index="7716"
+         id="c7716" data-surrogate-type="user"
+         data-surrogate-id="111344" data-author-id="111344" data-id="4028984"
+         data-markup-type="1" data-parent-id="1592"
+         data-depth="1"
+         data-parent-comment="4027876"
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/werewindwolf"><span itemprop="name">werewindwolf</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem location">
+                Location:
+                <span class="postbit-item location">
+
+The Windwolves&#39; Den
+                </span>
+        </li>
+            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+7/8/2006
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+90
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/werewindwolf">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/werewindwolf-profile_image-08fe369fe72062c3-50x50.png" itemprop="image" alt="View werewindwolf&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/werewindwolf"><span class="user user-role-registered-user ">werewindwolf <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/werewindwolf"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=werewindwolf"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-05T11:36:58">Posted <abbr class="tip standard-date standard-datetime" title="09 5 2019 04:36:58 (PDT) (UTC-7:00)" data-epoch="1567683418" data-date-prefix="Posted ">Sep 5, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7716" data-link-prompt="true">#7716</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7716" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>In reply to <a href="https://www.curseforge.com/members/hulx" rel="nofollow">Hulx</a>:</p>
+<p>&nbsp;Yeah..</p>
+<p>Whatever happened between 8.2.4 and 8.2.8, something now causes these errors. (There are at least 3 different ones.)</p>
+<p>They're getting attributed to various other addons, but Bagnon is the only one actually including Wildpants.</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+<li itemscope itemtype="http://schema.org/Comment" class="p-comments p-comments-a">
+
+        <div class="comment-indentation"></div>
+    <div class="j-comment p-comment-post forum-post box comment comment-normal comment-user user-role-registered-user user-role-registered user comment-depth-1"
+         data-index="7717"
+         id="c7717" data-surrogate-type="user"
+         data-surrogate-id="111344" data-author-id="111344" data-id="4028994"
+         data-markup-type="1" data-parent-id="1592"
+         data-depth="1"
+         data-parent-comment="4027876"
+         data-parent-type-id="1682146042">
+
+
+        <div class="j-comment-content forum-post-content p-comment-container expandable" data-related-button=".deleted-comment-button">
+            <div class="p-comment-user-background"></div>
+
+            <div class="p-comment-user forum-post-info" itemscope itemtype="http://schema.org/Person" itemprop="creator">
+                <div class="p-comment-micro-author">
+                    <a itemprop="url" href="/members/werewindwolf"><span itemprop="name">werewindwolf</span></a>
+                </div>
+
+
+                <span class="p-comment-title username-role-registered-user">
+                </span>
+
+                <div class="p-comment-role-title">
+
+                </div>
+
+
+    <ul class="p-comment-stats">
+        <li class="p-comment-statitem forum-title "></li>
+                            <li class="p-comment-statitem location">
+                Location:
+                <span class="postbit-item location">
+
+The Windwolves&#39; Den
+                </span>
+        </li>
+            <li class="p-comment-statitem join-date">
+                Join Date:
+                <span class="postbit-item join-date">
+
+7/8/2006
+                </span>
+        </li>
+            <li class="p-comment-statitem posts">
+                Posts:
+                <span class="postbit-item posts">
+
+90
+                </span>
+        </li>
+        <li>Member Details</li>
+    </ul>
+
+
+            </div>
+
+
+            <div class="p-comment-wrapper comment-user-anonymous">
+
+                <header class="flex mb-2">
+                    <div class="p-comment-avatar mr-3">
+
+    <div class="avatar avatar-30 user user-role-registered-user">
+            <a href="/members/werewindwolf">
+                <img class="rounded h-6 w-6" style="max-width: 30px" src="https://static-cdn.jtvnw.net/jtv_user_pictures/werewindwolf-profile_image-08fe369fe72062c3-50x50.png" itemprop="image" alt="View werewindwolf&#39;s Profile" onerror="if (this.src != 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y') this.src = 'http://www.gravatar.com/avatar/00000000000000000000000000000000?d=mm&amp;f=y';" />
+            </a>
+
+        
+    </div>
+                    </div>
+
+<div class="p-comment-header forum-post-header w-full flex flex-grow my-auto">
+
+
+<div class="u-dropDown p-comment-username j-comment-username" title="">
+    <a href="/members/werewindwolf"><span class="user user-role-registered-user ">werewindwolf <svg class="icon icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Directional/Glyph Down.svg#Directional/Glyph Down"/></svg></span></a>
+    <div class="absolute z-10 block">
+
+
+    <ul class="user-actions user-actions-forum-post-author-menu u-dropDownMenu b-userAction b-userAction-a covert-list">
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/members/werewindwolf"  class=""   data-responsive-label="Profile" data-non-responsive-label="View User Profile">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        View User Profile
+                    </span>
+                </a>
+
+            </li>
+            <li class="user-action b-userAction-item user-action-link-responsive link-responsive"  >
+                <a href="/private-messages/send?recipient=werewindwolf"  class=""   data-responsive-label="Message" data-non-responsive-label="Send Message">
+                    <i class="u-icon u-icon-link-responsive"></i>
+                    <span class="label">
+                        Send Message
+                    </span>
+                </a>
+
+            </li>
+    </ul>
+
+    </div>
+</div>
+
+    <span class="p-comment-postdate post-date ml-auto text-gray-500 mr-4" itemprop="dateCreated" datetime="2019-09-05T11:50:05">Posted <abbr class="tip standard-date standard-datetime" title="09 5 2019 04:50:05 (PDT) (UTC-7:00)" data-epoch="1567684205" data-date-prefix="Posted ">Sep 5, 2019</abbr></span>
+
+        <span class="p-comment-index post-index flex">
+            <a class="j-comment-link" href="?comment=7717" data-link-prompt="true">#7717</a>
+        </span>
+
+
+</div>                </header>
+               
+
+                <!-- Comment Content -->
+                <div class="p-comment-content forum-post-body-container">
+
+                    <!-- Body -->
+                    <div class="j-comment-body-container p-comment-body forum-post-body-content">
+                        <!-- Content -->
+                        <div id="forum-post-body-7717" class="j-comment-body forum-post-body u-typography-format text" itemprop="text">
+<p>In reply to <a href="https://www.curseforge.com/members/hulx" rel="nofollow">Hulx</a>:</p>
+<p>&nbsp;Do you by any chance use Bazooka? or some other (possibly outdated) LDB display addon?</p>                        </div>
+
+                        <!-- Attachments -->
+
+
+                    </div>
+                </div>
+
+<div class="p-comment-notes">                                
+
+    <!-- Edited By -->
+                
+        <!-- Notes -->
+                   
+                
+
+
+
+</div><div class="j-comment-revisions-history comment-revisions-history" style="display:none">
+    <span>Rollback Post to Revision</span>
+    <select class="j-comment-revisions-select comment-revisions-select"></select>
+    <span class="button j-comment-revisions-rollback comment-revisions-rollback">Rollback</span>
+    <input type="submit" class="j-comment-revisions-cancel button comment-revisions-cancel" name="cancel-rollback" value="Cancel"/>
+</div>
+            </div>
+        </div>
+    </div>
+</li>
+
+    <li class="alert no-results">To post a comment, please <a href="/login?returnUrl=%2fwow%2faddons%2fbagnon" class="j-login-link">login</a> or <a href="/register?returnUrl=%2fwow%2faddons%2fbagnon">register</a> a new account.</li>
+ 
+</ul>
+</div>
+
+
+
+
+
+
+<div class="pagination pagination-bottom flex items-center">
+
+    <div class="mr-3 pagination-prev h-6 w-6 flex justify-center items-center pagination-prev--inactive">
+            <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path class="fill-gray-500" fill-rule="evenodd" clip-rule="evenodd" d="M12.537 5.05389C12.813 5.15689 12.996 5.41889 13 5.71389V14.2859C13 14.5749 12.817 14.8359 12.537 14.9459C12.257 15.0559 11.934 14.9959 11.72 14.7909L7.22 10.5049C7.08 10.3739 7.001 10.1909 7 9.99989C7.001 9.80789 7.08 9.62589 7.22 9.49489L11.72 5.20989C11.939 5.00489 12.258 4.94389 12.537 5.05489" fill="#6E6779" />
+            </svg>
+
+    </div>
+        <span class="text-gray-400 pagination-item pagination-item--active">1</span>
+        <a href="/wow/addons/bagnon?page=2#comments" class="pagination-item"><span class="text-primary-500">2</span></a>
+        <a href="/wow/addons/bagnon?page=3#comments" class="pagination-item"><span class="text-primary-500">3</span></a>
+        <a href="/wow/addons/bagnon?page=4#comments" class="pagination-item"><span class="text-primary-500">4</span></a>
+    <span class="pagination-item">&hellip;</span>
+        <a href="/wow/addons/bagnon?page=342#comments" class="pagination-item"><span class="text-primary-500">342</span></a>
+        <div class="pagination-next h-6 w-6 flex items-center justify-center ">
+                <a href="/wow/addons/bagnon?page=2#comments">
+                    <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path class="fill-primary-500" fill-rule="evenodd" clip-rule="evenodd" d="M7.46324 14.9464C7.18724 14.8424 7.00424 14.5804 7.00024 14.2864V5.71438C7.00024 5.42538 7.18324 5.16438 7.46324 5.05438C7.74324 4.94438 8.06624 5.00438 8.28024 5.20938L12.7802 9.49538C12.9202 9.62638 12.9992 9.80838 13.0002 10.0004C12.9992 10.1914 12.9202 10.3744 12.7802 10.5054L8.28024 14.7904C8.06024 14.9954 7.74224 15.0554 7.46324 14.9454" fill="#6E6779" />
+                    </svg>
+                </a>
+        </div>
+</div><div class="listing-footer">
+
+</div></div>
+</section>
+
+    <!-- Bulk Moderation Form -->
+<div class="j-bulk-moderation comment-bulk-moderation toggle box bg-gray-500 flex fixed right-0 bottom-0 z-50 p-4 mb-8 mr-8 pb-0" data-bulk-moderation-cookie="commentBulkModeration" style="display: none;">
+    <ul class="j-bulk-moderation-errors hide field-errors"></ul>
+    <form action="/comments/bulk-moderation" method="post">
+        <div class="input">
+            <select name="actionName">
+                <option value="delete">Delete</option>
+                <option value="undelete">Undelete</option>
+                <option value="spam">Spam</option>
+                <option value="notspam">Not Spam</option>
+                <option value="merge">Merge</option>
+            </select>
+        </div>
+        <div class="form-gray-footer flex">
+
+            <div>
+                <a href="#" class="button button-hollow j-clear-selection">Clear Selected</a>
+            </div>
+            <div>
+                <button type="submit" class="button j-apply-selection ml-2">Apply To Selected</button>
+            </div>
+        </div>
+    </form>
+</div>
+
+    <!-- MultiQuote -->
+<div class="multi-quote-container j-multi-quote-container hide box bg-gray-500 flex flex-col fixed right-0 bottom-0 z-50 p-4 mb-8 mr-8 pb-0">
+    <div class="multi-quote-title">
+        <span class="quote-text">Posts Quoted: </span><span class="quote-number j-quote-number"></span>
+    </div>
+    <div class="form-gray-footer">
+        <div class="quote-reply">
+            <span class="button j-multi-quote-reply">Reply</span>
+
+        </div>
+        <div class="quote-clear">
+            <span class="button j-multi-quote-clear ml-2">Clear All Quotes</span>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Comment Form Bottom -->
+
+    </div>
+</section>
+                    </div>
+
+                </div>
+            </div>
+            <aside class="lg:block w-full lg:w-64 px-2">
+
+                <div class="mg-b-2">
+  <div id='cdm-zone-02'></div>
+</div>
+
+                <div class="my-4">
+
+<div class="flex box p-4 flex-col">
+    <div class="pb-4 border-b border-gray--100">
+        <div class="flex justify-between mb-3">
+            <h3 class="font-bold text-lg">About Project</h3>
+            <div class="flex">
+                    <div class="flex items-center">
+                        <svg class="icon" viewBox="0 0 20 20" width="20" height="20"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Object/ChatRiskFlag.svg#Object/ChatRiskFlag"/></svg>
+                        <span class="my-auto disabled tip" title="You must be logged in to report a Project.">Report</span>
+                    </div>
+
+            </div>
+        </div>
+        <div class="flex flex-col mb-3">
+            <div class="w-full flex justify-between">
+                <span>Project ID</span>
+                <span>1592</span>
+            </div>
+            <div class="w-full flex justify-between">
+                <span>Created </span>
+                <span><abbr class="tip standard-date standard-datetime" title="12 26 2005 07:04:58 (PDT) (UTC-8:00)" data-epoch="1135609498">Dec 26, 2005</abbr></span>
+            </div>
+            <div class="w-full flex justify-between">
+                <span>Updated</span>
+                <span><abbr class="tip standard-date standard-datetime" title="09 5 2019 12:20:41 (PDT) (UTC-7:00)" data-epoch="1567711241">Sep 5, 2019</abbr></span>
+            </div>
+            <div class="w-full flex justify-between">
+                <span>Total Downloads</span>
+                <span>49,097,315</span>
+            </div>
+            <div class="w-full flex justify-between">
+                <span>
+                    License
+                </span>
+
+                <a href="/project/1592/license" rel="modal:open">
+                    All Rights Rese...
+                </a>
+            </div>
+        </div>
+        <div class="flex justify-between items-center">
+            
+                <a href="/login?returnUrl=%252fwow%252faddons%252fbagnon" class="button w-15 ">
+                    <span class="button__text">
+                        Follow
+                    </span>
+                </a>
+                            <a href="https://www.paypal.com/cgi-bin/webscr?hosted_button_id=JVA9GGJJ75K3J&amp;item_name=Bagnon+(from+curseforge.com)&amp;cmd=_s-xclick" class="button w-15 ml-auto" target="_BLANK">
+                    <span class="button__text">
+                        Donate
+                    </span>
+                </a>
+        </div>
+    </div>
+
+    <div class="pb-4 border-b border-gray--100 lg:flex flex-col mt-3">
+        <h3 class="mb-3 font-bold text-lg">Categories</h3>
+        <div class="flex -mx-1">
+
+                <div class="px-1">
+                    <a href="/wow/addons/bags-inventory">
+                        <figure class="relative h-6 w-6" title="Bags &amp; Inventory">
+                            <img src="https://media.forgecdn.net/avatars/thumbnails/54/445/30/30/636135209663914354.png" class="rounded absolute inset-0 h-full w-full" />
+                        </figure>
+                    </a>
+                </div>
+        </div>
+    </div>
+    <div class="pb-4 border-b border-gray--100 lg:flex flex-col mt-3">
+        <h3 class="font-bold mb-3 text-lg">Members</h3>
+            <div class="flex mb-2">
+                <a href="/members/tullamods">
+                    <figure class="relative w-6 h-6 mr-2">
+                        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/7aaec72c-e5c5-4fb4-8bf4-ac81c80cba28-profile_image-150x150.png" />
+                    </figure>
+                </a>
+                <div class="flex flex-col flex-grow">
+                    <p class="text-sm text-primary-500 flex">
+                        <a href="/members/tullamods">
+                            <span>
+                                tullamods
+                            </span>
+                        </a>
+                    </p>
+                    <p class="text-xs">Owner</p>
+                </div>
+            </div>
+            <div class="flex mb-2">
+                <a href="/members/jaliborc">
+                    <figure class="relative w-6 h-6 mr-2">
+                        <img src="https://static-cdn.jtvnw.net/jtv_user_pictures/5fbdd44c-11de-4a0e-9c14-cd6ed651c48e-profile_image-150x150.jpg" />
+                    </figure>
+                </a>
+                <div class="flex flex-col flex-grow">
+                    <p class="text-sm text-primary-500 flex">
+                        <a href="/members/jaliborc">
+                            <span>
+                                jaliborc
+                            </span>
+                        </a>
+                    </p>
+                    <p class="text-xs">Author</p>
+                </div>
+            </div>
+    </div>
+    <div class="mt-3">
+
+
+
+
+
+
+
+    <div class="cf-sidebar-wrapper">
+        <div class="cf-sidebar-header">
+            <h3 class="font-bold mb-3 text-lg">Recent Files</h3>
+        </div>
+        <div class="cf-sidebar-inner">
+                        <h4 class="e-sidebar-subheader overflow-tip mb-1">
+                            <a class="overflow-tip text-sm hover:no-underline text-charcoal font-bold" href="/wow/addons/bagnon/files/all?filter-game-version=1738749986%3a517">
+                                WoW
+                            </a>
+                        </h4>
+                    <ul class="cf-recentfiles mb-4">
+    <li class="flex items-center box box--no-shadow p-1 mb-1">
+        <div class="mr-2">
+                <div class="h-6 w-6 bg-green-500 text-white rounded flex justify-center items-center">
+                    <span class="text-white" title="Release">R</span>
+                </div>
+        </div>
+        <div class="flex flex-col w-2/3">
+            <a class="overflow-tip truncate" href="/wow/addons/bagnon/files/2779095" data-action=&#39;file-link&#39; data-id="1592" data-name="8.2.9">8.2.9</a>
+            <abbr class="tip standard-date standard-datetime" title="09 5 2019 12:20:41 (PDT) (UTC-7:00)" data-epoch="1567711241">Sep 5, 2019</abbr>
+        </div>
+        <div class="cf-recentfiles-credits-wrapper ml-auto my-auto">
+                <a href="/wow/addons/bagnon/download/2779095" class="button button--icon-only button--sidebar">
+                    <span class="button__text">
+                        <svg class="icon icon-fixed-width icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Action/Download.svg#Action/Download"/></svg>
+                    </span>
+                </a>
+        </div>
+
+    </li>
+
+                    </ul>
+                        <h4 class="e-sidebar-subheader overflow-tip mb-1">
+                            <a class="overflow-tip text-sm hover:no-underline text-charcoal font-bold" href="/wow/addons/bagnon/files/all?filter-game-version=1738749986%3a67408">
+                                WoW Classic
+                            </a>
+                        </h4>
+                    <ul class="cf-recentfiles mb-4">
+    <li class="flex items-center box box--no-shadow p-1 mb-1">
+        <div class="mr-2">
+                <div class="h-6 w-6 bg-green-500 text-white rounded flex justify-center items-center">
+                    <span class="text-white" title="Release">R</span>
+                </div>
+        </div>
+        <div class="flex flex-col w-2/3">
+            <a class="overflow-tip truncate" href="/wow/addons/bagnon/files/2779095" data-action=&#39;file-link&#39; data-id="1592" data-name="8.2.9">8.2.9</a>
+            <abbr class="tip standard-date standard-datetime" title="09 5 2019 12:20:41 (PDT) (UTC-7:00)" data-epoch="1567711241">Sep 5, 2019</abbr>
+        </div>
+        <div class="cf-recentfiles-credits-wrapper ml-auto my-auto">
+                <a href="/wow/addons/bagnon/download/2779095" class="button button--icon-only button--sidebar">
+                    <span class="button__text">
+                        <svg class="icon icon-fixed-width icon-margin" viewBox="0 0 20 20" width="16" height="16"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Action/Download.svg#Action/Download"/></svg>
+                    </span>
+                </a>
+        </div>
+
+    </li>
+
+                    </ul>
+
+        </div>
+    </div>
+
+    </div>
+</div>
+                </div>
+                <div id='cdm-zone-03'></div>
+            </aside>
+        </section>
+    </div>
+</div>
+
+            <div id="analytics">
+                <!-- Google Analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(
+        ['_setAccount', 'UA-389142-3'],
+        ['_setDomainName', 'curseforge.com'],
+        ['_addIgnoredRef', 'curseforge.com'],
+        ['_trackPageview'],
+        ['b._setAccount', 'UA-389142-31'],
+        ['b._setDomainName', 'curseforge.com'],
+        ['b._addIgnoredRef', 'curseforge.com'],
+        ['b._trackPageview']
+);
+(function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- End Google Analytics -->
+
+<!-- Lotame -->
+<script src="https://tags.crwdcntrl.net/c/3613/cc.js?ns=_cc3613" id="LOTCC_3613"></script>
+<script>
+_cc3613.bcp();
+</script>
+<!-- End Lotame -->
+            </div>
+        </main>
+        <!-- Layout End -->
+
+
+        <div class="flex-none">
+            
+
+
+
+<script type="text/javascript">
+    Cobalt.Device.initialize();
+    Cobalt.Burger.initializeEarly();
+
+    Cobalt.Constants.initialize({"StaticURL":"/Content/2-0-7179-35052","SkinPath":"/Content/2-0-7179-35052/Skins/CurseForge","MediaURL":"https://media.forgecdn.net/","AvatarURL":"https://media.forgecdn.net/avatars","AttachmentURL":"https://media.forgecdn.net/attachments","ActiveConfiguration":"production"});
+
+    Cobalt.Constants.BuildVersion = "2-0-7179-35052";
+    Cobalt.Constants.IsDevelopment = false;
+    Cobalt.Constants.IgnoredUserIDs = [];
+    Cobalt.Constants.ServerTimestamp = 1567993521883.28
+    Cobalt.Constants.FacebookAppID = "";
+    Cobalt.Constants.QuoteCssClasses = "";
+    Cobalt.User.EnabledLanguageIDs = [1,2,3,4,7,8,9,15,16];
+    Cobalt.User.MaxQuoteDepth = 5;
+    Cobalt.User.AuthToken = "";
+    Cobalt.TinyMCE.extraPlugins = "";
+    Cobalt.TinyMCE.extraButtons = "";
+    Cobalt.TinyMCE.extraCustomPlugins = "";
+
+    // NOTE: if you need to debug into tinymce, then change the following line to tinymce.js
+    Cobalt.TinyMCE.url = "/Content/js/tinymce/tiny_mce/tinymce.min.js";
+    Cobalt.TinyMCE.customPluginUrl = "/Content/js/tinymce/custom_plugins";
+    Cobalt.TinyMCE.skin_url = "/Content/js/tinymce/custom_skin";
+
+
+    Cobalt.Constants.SiteID = 23;
+    Cobalt.Constants.SiteName = "CurseForge";
+    Cobalt.TinyMCE.fontColorEnabled = true;
+    Cobalt.TinyMCE.fontSizeEnabled = true;
+    Cobalt.TinyMCE.fontFamilyEnabled = true;
+    Cobalt.TinyMCE.textAlignmentEnabled = true;
+    Cobalt.TinyMCE.smiliesEnabled = false;
+    Cobalt.TinyMCE.forceSimpleBBCodeEditor = false;
+    Cobalt.Constants.NestedQuotePreference  = 1;
+    $.ajaxSetup({
+        data: {},
+        timeout: 30000
+    });
+
+
+    //bbcode entries
+
+
+    Cobalt.Markup.customBBcodeButtons = [];
+
+
+
+    Cobalt.CMS.CobaltCss = ["/Content/2-0-7179-35052/Skins/Global-TinyMCE/css/compiled.css"];
+    Cobalt.CMS.ProjectCss = ["/Content/2-0-7179-35052/Skins/CurseForge/css/compiled.css"];
+
+    // set the tracking id for google analytics on this site
+    Cobalt.Analytics.trackingId = 'UA-389142-31';
+
+</script>
+
+
+
+<script>
+    hljs.initHighlighting();
+</script><script type="text/javascript">
+    Cobalt.runOnLoad(function () {
+        Cobalt.initialize([{dependency:Cobalt.Listing, priority:99, name:'Cobalt.Listing'},{dependency:Cobalt.Comment, priority:99, name:'Cobalt.Comment'},{dependency:Cobalt.VideoEmbed, priority:99, name:'Cobalt.VideoEmbed'},{dependency:Elerium.AdResize, priority:99, name:'Elerium.AdResize'},{dependency:Cobalt.TinyMCE, priority:99, name:'Cobalt.TinyMCE'},{dependency:Elerium.Dropdown, priority:99, name:'Elerium.Dropdown'},{dependency:Elerium.Notifications, priority:99, name:'Elerium.Notifications'},{dependency:Cobalt.Tabs, priority:99, name:'Cobalt.Tabs'},{dependency:Cobalt.NiceDates, priority:99, name:'Cobalt.NiceDates'},{dependency:Cobalt.Core, priority:99, name:'Cobalt.Core'},{dependency:Cobalt.Forms, priority:99, name:'Cobalt.Forms'},{dependency:Cobalt.UI, priority:99, name:'Cobalt.UI'},{dependency:Cobalt.Notifications, priority:99, name:'Cobalt.Notifications'},{dependency:Cobalt.Feedback, priority:99, name:'Cobalt.Feedback'},{dependency:Cobalt.WarningNotification, priority:99, name:'Cobalt.WarningNotification'},{dependency:Cobalt.Footer, priority:99, name:'Cobalt.Footer'},{dependency:Cobalt.Tidbit, priority:99, name:'Cobalt.Tidbit'},{dependency:Cobalt.BunnyEars, priority:99, name:'Cobalt.BunnyEars'},{dependency:Elerium.OverflowTip, priority:99, name:'Elerium.OverflowTip'},{dependency:Elerium.PostAction, priority:99, name:'Elerium.PostAction'},{dependency:Elerium.Analytics, priority:99, name:'Elerium.Analytics'},{dependency:Elerium.TwitchNurture, priority:99, name:'Elerium.TwitchNurture'}]);
+    });
+</script>
+            
+<footer class="flex align-items-center bg-charcoal px-6 justify-center flex-col">
+    <div class="container mx-auto">
+        <nav class="flex justify-between w-full py-4 sm:mb-2">
+            <section class="flex flex-col">
+                <a href="https://twitch.tv" target="_blank" title="Twitch">
+                    <figure class="mb-2 text-white">
+                        <svg class="icon icon-white" viewBox="0 0 282 96" width="94" height="32"><use xlink:href="/Content/2-0-7179-35052/Skins/CurseForge/images/twitch/Logo/Twitch.svg#Logo/Twitch"/></svg>
+                    </figure>
+                </a>
+                <span class="text-white">©2019 Twitch Interactive, Inc</span>
+            </section>
+            <section class="hidden md:flex flex-col">
+                <a href="https://twitch.tv/p/about/" target="_blank" class="footer-link">About</a>
+                <a href="https://twitch.tv/jobs/" target="_blank" class="footer-link">Careers</a>
+                <a href="https://twitch.tv/blog/" target="_blank" class="footer-link">Blog</a>
+                <a href="https://twitch.tv/p/about/press-releases/" target="_blank" class="footer-link">Press</a>
+            </section>
+            <section class="hidden md:flex flex-col">
+                <a href="https://twitch.tv/p/brand/" target="_blank" class="footer-link">Brand</a>
+                <a href="https://music.twitch.tv/" target="_blank" class="footer-link">Music</a>
+                <a href="https://twitchadvertising.tv/" target="_blank" class="footer-link">Advertise</a>
+                <a href="https://twitch.tv/legal/ad-choices/" target="_blank" class="footer-link">Ad Choices</a>
+            </section>
+            <section class="hidden md:flex flex-col">
+                <a href="https://www.twitch.tv/prime/" target="_blank" class="footer-link">Prime</a>
+                <a href="https://twitch.tv/p/partners/" target="_blank" class="footer-link">Partners</a>
+                <a href="https://affiliate.twitch.tv/" target="_blank" class="footer-link">Affiliates</a>
+            </section>
+            <section class="hidden md:flex flex-col">
+                <a href="https://dev.twitch.tv/" target="_blank" class="footer-link">Developers</a>
+                <a href="https://support.curseforge.com/hc/en-us" target="_blank" class="footer-link">Help</a>
+                <a href="https://twitch.uservoice.com/forums/915910-game-mods-curseforge" target="_blank" class="footer-link">Feedback</a>
+            </section>
+            <section class="hidden md:flex flex-col">
+                <a href="https://twitch.tv/legal/terms-of-service/" target="_blank" class="footer-link">Terms of Service</a>
+                <a href="https://twitch.tv/legal/privacy-policy/" target="_blank" class="footer-link">Privacy Policy</a>
+                <a href="https://twitch.tv/legal/cookie-policy/" target="_blank" class="footer-link">Cookie Policy</a>
+            </section>
+        </nav>
+    </div>
+</footer>
+
+        </div>
+    </div>
+
+    <!-- Layout Start -->
+</body>
+</html>
